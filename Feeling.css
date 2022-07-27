@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+    display: inline-block;
+}
+
+.image{
+    position: relative;
+    left: 0px;
+}
+.que{
+    position: relative;
+    color: black;
+    font-size: medium;
+}
+.ans{
+    position: relative;
+    left: 500px;
+    text-decoration-color: black;
+}
